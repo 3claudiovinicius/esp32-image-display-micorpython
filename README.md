@@ -36,3 +36,4 @@ micropython_project/
 2. Improve the `send_notification()` function so that each chunk contains one line of the message, with each new line starting in a new chunk.
 3. Implement navigation logic in `send_notification()` for user action options, such as basic commands to advance, go back, confirm (OK), and end.
 4. Consider additional improvements for functionality and user experience.
+5. Separe fucntions in separate .c and .h files
